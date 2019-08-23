@@ -1,6 +1,6 @@
 # Proyecto final - Agenda
 ------------------------------------
-## Proyecto final de el curso Interactuando con las bases de datos de la certificacion como Desarrollador Web de [Next University](https://www.nextu.com/).
+## Proyecto del Interactuando con las bases de datos de la certificacion como Desarrollador Web de [Next University](https://www.nextu.com/).
 
 ## Requerimientos Generales
 
